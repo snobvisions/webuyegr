@@ -1,23 +1,23 @@
 [
   {
-    "slug": "facial-products",
-    "name": "Facial Products",
+    "slug": "mens-products",
+    "name": "Mens Products",
     "meta": {
-      "image": "/images/collection/1.png"
+      "image": "/images/collection/mens.jpg"
     }
   },
   {
-    "slug": "hair-products",
-    "name": "Hair Products",
+    "slug": "womens-products",
+    "name": "Womens Products",
     "meta": {
-      "image": "/images/collection/2.png"
+      "image": "/images/collection/womens.jpg"
     }
   },
   {
-    "slug": "body-products",
-    "name": "Body Products",
+    "slug": "contacts-products",
+    "name": "Contacts Products",
     "meta": {
-      "image": "/images/collection/3.png"
+      "image": "/images/collection/contacts.jpg"
     }
   }
 ]
