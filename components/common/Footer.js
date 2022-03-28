@@ -80,7 +80,7 @@ const Footer = () => (
                 Facebook
               </a>
               <a
-                href="https://"
+                href="https://youtube.com"
                 className="d-block font-color-medium"
                 target="_blank"
                 rel="noopener noreferrer"
