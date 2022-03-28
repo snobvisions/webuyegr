@@ -11,7 +11,7 @@ const Footer = () => (
           <div className="d-flex font-color-medium mb-5 pb-3 pb-md-0 mb-md-0">
             <div className="pr-5">
               <a
-                href="https://commercejs.com/docs/"
+                href="https://"
                 className="mb-3 d-block font-color-medium"
                 target="_blank"
                 rel="noopener noreferrer"
@@ -19,7 +19,7 @@ const Footer = () => (
                 Documentation
               </a>
               <a
-                href="https://commercejs.com/features"
+                href="https://"
                 className="d-block font-color-medium"
                 target="_blank"
                 rel="noopener noreferrer"
@@ -29,7 +29,7 @@ const Footer = () => (
             </div>
             <div>
               <a
-                href="https://commercejs.com/about"
+                href="https://www.egr.com/about"
                 className="mb-3 d-block font-color-medium"
                 target="_blank"
                 rel="noopener noreferrer"
@@ -37,12 +37,12 @@ const Footer = () => (
                 About
               </a>
               <a
-                href="http://slack.commercejs.com/"
+                href="https://www.egr.com/bulk"
                 className="d-block font-color-medium"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                Community
+                Bulk Order
               </a>
             </div>
           </div>
@@ -72,20 +72,20 @@ const Footer = () => (
             </div>
             <div>
               <a
-                href="https://angel.co/"
+                href="https://www.facebook.com"
                 className="mb-3 d-block font-color-medium"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                Angel
+                Facebook
               </a>
               <a
-                href="https://www.linkedin.com/"
+                href="https://"
                 className="d-block font-color-medium"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                LinkedIn
+                Youtube
               </a>
             </div>
           </div>
